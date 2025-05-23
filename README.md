@@ -19,4 +19,3 @@ These certifications reflect my commitment to ongoing professional development i
 
 - `/Certificates` – PDF credentials and verified certificates  
 - `/Resources` – External course links, documentation, or tools  
-- `/Notes` *(optional)* – Course summaries and key takeaways
