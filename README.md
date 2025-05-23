@@ -1,21 +1,24 @@
-# 🚗 Automotive, ADAS & Mobility Certifications — *Actively Updating*
+🤖 AI and Data Science Certifications — Actively Updating
+This repository contains my curated collection of certifications, learning notes, and verified credentials in the fields of Machine Learning, Deep Learning, Computer Vision, Data Visualization, and Databases.
 
-This repository contains my collection of certifications, learning notes, and verified credentials in the fields of **automotive systems**, **ADAS (Advanced Driver Assistance Systems)**, **embedded technologies**, and **future mobility**.
+These certifications reflect my commitment to continuous learning and professional development in:
 
-These certifications reflect my commitment to ongoing professional development in:
+Machine Learning & Predictive Modeling
 
-- Advanced Driver Assistance Systems (ADAS)
-- Electric Vehicles (EV) and Battery Systems
-- Embedded Systems for Automotive ECUs
-- ISO 26262 – Functional Safety and AUTOSAR Architecture
-- A-SPICE – Automotive Software Process Improvement
-- CAN, UDS Protocols & Vehicle Diagnostics
-- HIL Testing & Validation Workflows
-- Systems Engineering for ICE, PHEV, and BEV architectures
+Deep Learning & Neural Networks
 
----
+Computer Vision & Image Processing
 
-📂 **Repository Structure**
+Data Visualization & Storytelling with Data
 
-- `/Certificates` – PDF credentials and verified certificates  
-- `/Resources` – External course links, documentation, or tools  
+Database Systems & Data Management
+
+📂 Repository Structure
+
+/Certificates – PDF credentials and verified certificates
+
+/Resources – Course materials, documentation, tutorials, or tools
+
+/Notes – Personal learning notes, summaries, and key concepts
+
+💡 This is a living repository and will be updated regularly as I complete new certifications and explore emerging technologies in AI and Data Science.
