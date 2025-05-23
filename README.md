@@ -18,4 +18,7 @@ These certifications reflect my commitment to ongoing professional development i
 📂 **Repository Structure**
 
 - `/Certificates` – PDF credentials and verified certificates  
-- `/Resources` – External course links, documentation, or tools  
+- `/Resources` – External course links, documentation, or tools
+
+  **Note:** This is a living repository — I update it regularly as I complete more certifications and expand my expertise in the field.
+
