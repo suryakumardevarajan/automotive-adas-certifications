@@ -1,4 +1,4 @@
-# 🚗 Automotive, ADAS & Mobility Certifications — *To Be Updated Soon*
+# 🚗 Automotive, ADAS & Mobility Certifications — *Actively Updating*
 
 This repository contains my collection of certifications, learning notes, and verified credentials in the fields of **automotive systems**, **ADAS (Advanced Driver Assistance Systems)**, **embedded technologies**, and **future mobility**.
 
